@@ -55,6 +55,10 @@ javac -encoding UTF-8 -d out src/calculator/*.java
 java -cp out calculator.Main
 ```
 
+## 📱 App Screenshot
+
+![Calculator App Preview](calculator-preview.png)
+
 ## Run the Smoke Test
 
 Compile the application and test source files:
