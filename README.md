@@ -88,7 +88,7 @@ You can open the project folder directly in IntelliJ IDEA, Eclipse, or VS Code. 
 **Ziad Omar**  
 Computer Science Student | Software Testing Enthusiast
 
-- GitHub: [My github profile]([https://github.com/](https://github.com/ziadomar-dev))
+- GitHub: [My github profile](https://github.com/ziadomar-dev)
 - LinkedIn: [eng-ziad-omar](https://www.linkedin.com/in/eng-ziad-omar-/)
 
 ## License
